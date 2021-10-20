@@ -59,9 +59,9 @@
         "Standard_F4s",
         "Standard_F8s",
         "Standard_D1_v2",
-        "Standard_D2_v2",
-        "Standard_D4_v2",
-        "Standard_D8_v2"
+        "Standard_D2s_v3",
+        "Standard_D4s_v3",
+        "Standard_D8s_v3"
       ],
       "metadata": {
         "description": "IP address of the second cgf in the cluster"
