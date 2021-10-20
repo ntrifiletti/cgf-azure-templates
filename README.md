@@ -5,7 +5,7 @@
 ## Template Parameters
 | Status | Name | In existing VNET | HighAvailability | ELB Basic | ELB Standard | ILB with HA Ports | Availability Zones | 1 NIC | 2 NIC 
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-[CGF-HA-AZ-NO-ELB-NO-RT-BASIC](https://github.com/ntrifiletti/cgf-azure-templates/blob/main/CGF-HA-AZ-NO-ELB-NO-RT-BASIC) | X | X | - | X | X | - | X | - 
+[CGF-HA-AZ-NO-ELB-NO-RT-BASIC](https://github.com/ntrifiletti/cgf-azure-templates/blob/main/CGF-HA-AZ-NO-ELB-NO-RT-BASIC) | X | X | - | - | - | - | X | - 
 
 The Barracuda CloudGen Firewall (CGF) can be installed in different ways into the Microsoft Azure platform. This repository contains different methods using existing supported methods as well as methods that are in Preview on the Microsoft Azure platform. In the table below you can see which ARM Template contains which features.
 
